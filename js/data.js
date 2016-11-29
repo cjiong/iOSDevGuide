@@ -13,7 +13,8 @@ var iOSDevGuide = {
 		}, {
 			"pageT2":开发社区,
 			"pageC2":[
-			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'}
+			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'},
+			{'Name':'Stackoverflow','Title':'一个专业和热情的程序员','Href':'http://stackoverflow.com/'},
 			]
 		}]
 	}]
