@@ -15,6 +15,12 @@ var iOSDevGuide = {
 			"pageC2":[
 			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'},
 			{'Name':'Stackoverflow','Title':'','Href':'http://stackoverflow.com/'},
+			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
+			{'Name':'开源中国','Title':'','Href':'http://www.oschina.net/'},
+			{'Name':'伯乐在线','Title':'','Href':'http://web.jobbole.com/'},
+			{'Name':'知乎','Title':'','Href':'http://www.zhihu.com/topics'},
+			{'Name':'简书','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
+			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
 			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'}
 			]
 		}]
