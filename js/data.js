@@ -14,7 +14,8 @@ var iOSDevGuide = {
 			"pageT2":开发社区,
 			"pageC2":[
 			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'},
-			{'Name':'Stackoverflow','Title':'一个专业和热情的程序员','Href':'http://stackoverflow.com/'},
+			{'Name':'Stackoverflow','Title':'','Href':'http://stackoverflow.com/'},
+			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'}
 			]
 		}]
 	}]
