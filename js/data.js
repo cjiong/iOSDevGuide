@@ -19,9 +19,9 @@ var iOSDevGuide = {
 			{'Name':'开源中国','Title':'','Href':'http://www.oschina.net/'},
 			{'Name':'伯乐在线','Title':'','Href':'http://web.jobbole.com/'},
 			{'Name':'知乎','Title':'','Href':'http://www.zhihu.com/topics'},
-			{'Name':'简书','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
-			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
-			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'}
+			{'Name':'简书','Title':'','Href':'http://www.jianshu.com/'},
+			{'Name':'segmentfault','Title':'专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务。','Href':'http://segmentfault.com/'},
+			{'Name':'cocoachina','Title':'','Href':'http://www.cocoachina.com/'}
 			]
 		}]
 	}]
