@@ -13,7 +13,7 @@ var iOSDevGuide = {
 		}, {
 			"pageT2":"iOS知识",
 			"pageC2":[
-			{'Name':'','Title':'','Href':''},
+			{'Name':'SwiftGG','Title':'走心的 Swift 翻译组','Href':'http://swift.gg/'},
 			{}
 			]
 		}, {
@@ -21,13 +21,13 @@ var iOSDevGuide = {
 			"pageC2":[
 			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'},
 			{'Name':'Stackoverflow','Title':'','Href':'http://stackoverflow.com/'},
-			{'Name':'CSDN','Title':'','Href':'http://www.csdn.net/?ref=toolbar'},
-			{'Name':'开源中国','Title':'','Href':'http://www.oschina.net/'},
+			{'Name':'CSDN','Title':'不止于代码','Href':'http://www.csdn.net/?ref=toolbar'},
+			{'Name':'开源中国','Title':'找到您想要的开源项目，分享和交流','Href':'http://www.oschina.net/'},
 			{'Name':'伯乐在线','Title':'','Href':'http://web.jobbole.com/'},
-			{'Name':'知乎','Title':'','Href':'http://www.zhihu.com/topics'},
-			{'Name':'简书','Title':'','Href':'http://www.jianshu.com/'},
-			{'Name':'segmentfault','Title':'专注于程序员开发者的社区平台，提供开发相关的高质量问答，专栏，笔记，招聘，线下活动等服务。','Href':'http://segmentfault.com/'},
-			{'Name':'cocoachina','Title':'','Href':'http://www.cocoachina.com/'}
+			{'Name':'知乎','Title':'与世界分享你的知识、经验和见解','Href':'http://www.zhihu.com/topics'},
+			{'Name':'简书','Title':'交流故事，沟通想法','Href':'http://www.jianshu.com/'},
+			{'Name':'Segmentfault','Title':'一个专注于解决编程问题，提高开发技能的社区','Href':'https://segmentfault.com/'},
+			{'Name':'cocoachina','Title':'让移动开发更简单','Href':'http://www.cocoachina.com/'}
 			]
 		}]}, {//大块
 		"pageT1":"Swift/Objective-C",	
