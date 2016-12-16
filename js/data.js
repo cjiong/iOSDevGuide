@@ -11,6 +11,12 @@ var iOSDevGuide = {
 			{'Name':'百度传课','Title':'在线视频学习','Href':'http://www.chuanke.com/course/_ios_____.html'}
 			]
 		}, {
+			"pageT2":"iOS知识",
+			"pageC2":[
+			{'Name':'','Title':'','Href':''},
+			{}
+			]
+		}, {
 			"pageT2":"开发社区",
 			"pageC2":[
 			{'Name':'Github','Title':'Share Code','Href':'https://github.com/'},
@@ -28,16 +34,16 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
-			{},
-			{},
-			{}
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''}
 			]
 		}, {//小块
 			"pageT2":"Objective-C",
 			"pageC2":[
-			{},
-			{},
-			{}
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''}
 			]
 		}]}, {//大块
 		"pageT1":"Swift/Objective-C",	
