@@ -14,6 +14,8 @@ var iOSDevGuide = {
 			"pageT2":"iOS知识",
 			"pageC2":[
 			{'Name':'SwiftGG','Title':'走心的 Swift 翻译组','Href':'http://swift.gg/'},
+			{'Name':'cocoachina','Title':'让移动开发更简单','Href':'http://www.cocoachina.com/'},
+			{'Name':'菜鸟教程','Title':'学的不仅是技术，更是梦想！','Href':'http://www.runoob.com/'},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {
@@ -28,7 +30,8 @@ var iOSDevGuide = {
 			{'Name':'简书','Title':'交流故事，沟通想法','Href':'http://www.jianshu.com/'},
 			{'Name':'Segmentfault','Title':'一个专注于解决编程问题，提高开发技能的社区','Href':'https://segmentfault.com/'},
 			{'Name':'cocoachina','Title':'让移动开发更简单','Href':'http://www.cocoachina.com/'},
-			{'Name':'博客园','Title':'开发者的网上家园','Href':'http://www.cnblogs.com/'}
+			{'Name':'博客园','Title':'开发者的网上家园','Href':'http://www.cnblogs.com/'},
+			{'Name':'51CTO博客','Title':'领先的IT技术博客','Href':'http://blog.51cto.com/'},
 			]
 		}]}, {//大块
 		"pageT1":"Swift/Objective-C",	
@@ -159,7 +162,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"工作招聘",	
+		"pageT1":"面试",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -175,7 +178,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"工作招聘",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
