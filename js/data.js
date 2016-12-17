@@ -32,6 +32,7 @@ var iOSDevGuide = {
 			{'Name':'cocoachina','Title':'让移动开发更简单','Href':'http://www.cocoachina.com/'},
 			{'Name':'博客园','Title':'开发者的网上家园','Href':'http://www.cnblogs.com/'},
 			{'Name':'51CTO博客','Title':'领先的IT技术博客','Href':'http://blog.51cto.com/'},
+			{'Name':'ITEYE','Title':'','Href':'http://www.iteye.com/blogs/tag/iOS'}
 			]
 		}]}, {//大块
 		"pageT1":"Swift/Objective-C",	
