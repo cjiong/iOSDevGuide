@@ -47,7 +47,7 @@ var iOSDevGuide = {
 			{'Name':'','Title':'','Href':''}
 			]
 		}]}, {//大块
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"国内外优秀博客",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -63,7 +63,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"文档/资源库",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -79,7 +79,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"源代码/常用库",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -95,7 +95,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"文档/资源库",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -111,7 +111,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"免费素材",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -127,7 +127,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"常用工具",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -143,7 +143,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"数据接口/API",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
@@ -159,7 +159,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"工作招聘",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
