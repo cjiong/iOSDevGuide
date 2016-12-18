@@ -133,7 +133,13 @@ var iOSDevGuide = {
 		}]}, {
 		"pageT1":"常用工具",	
 		"pageC1":[{
-			"pageT2":"Swift",
+			"pageT2":"IDE",
+			"pageC2":[
+			{'Name':'Xcode','Title':'','Href':'https://developer.apple.com/xcode/'},
+			{'Name':'AppCode','Title':'','Href':'http://www.jetbrains.com/objc/'}
+			]
+		}, {
+			"pageT2":"",
 			"pageC2":[
 			{},
 			{},
