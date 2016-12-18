@@ -117,14 +117,17 @@ var iOSDevGuide = {
 		}]}, {
 		"pageT1":"免费素材",	
 		"pageC1":[{
-			"pageT2":"Swift",
+			"pageT2":"图标",
 			"pageC2":[
-			{},
-			{},
-			{}
+			{'Name':'EasyIcon','Title':'','Href':'http://www.easyicon.net/'},
+			{'Name':'IconFinder','Title':'','Href':'https://www.iconfinder.com/'},
+			{'Name':'IconFont+','Title':'阿里巴巴矢量图标库','Href':'http://www.iconfont.cn/plus'},
+			{'Name':'IcoMoon','Title':'Pixel Perfect Icon Solutions','Href':'https://icomoon.io/'},
+			{'Name':'IonIcons','Title':'The premium icon font for Ionic Framework','Href':'http://ionicons.com/'},
+			{'Name':'IconPng','Title':'','Href':'http://www.iconpng.com/'}
 			]
 		}, {
-			"pageT2":"Objective-C",
+			"pageT2":"素材下载",
 			"pageC2":[
 			{},
 			{},
