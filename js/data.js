@@ -129,8 +129,17 @@ var iOSDevGuide = {
 		}, {
 			"pageT2":"素材下载",
 			"pageC2":[
-			{},
-			{},
+			{'Name':'Unsplash','Title':'Free high-resolution photos.','Href':'https://unsplash.com/'},
+			{'Name':'Pixite','Title':'Free to use photos, textures and overlays.','Href':'http://source.pixite.co/'},
+			{'Name':'Cupcake','Title':'Free photos.','Href':'http://cupcake.nilssonlee.se/'},
+			{'Name':'Stokpic','Title':'Free Stock Photos For Commercial Use','Href':'http://stokpic.com/'},
+			{'Name':'Tookapic','Title':'','Href':'https://tookapic.com/photos?sort=downloads&filter=free'},
+			{'Name':'Fancycrave','Title':'','Href':'http://fancycrave.com/'},
+			{'Name':'FreelyPhotos','Title':'','Href':'http://freelyphotos.com/'},
+			{'Name':'Trunklog','Title':'','Href':'http://trunklog.com/'},
+			{'Name':'Barn Images','Title':'A collection of free photography','Href':'http://barnimages.com/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{}
 			]
 		}]}, {
