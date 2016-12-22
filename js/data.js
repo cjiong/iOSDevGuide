@@ -62,11 +62,11 @@ var iOSDevGuide = {
 			{'Name':'唐巧的技术博客','Title':'记录下自己学习的点滴','Href':'http://blog.devtang.com/'},
 			{'Name':'TUALATRIX','Title':'','Href':'https://imtx.me/'},
 			{'Name':'MartinRGB','Title':'','Href':'http://www.martinrgb.com/'},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'靛青K','Title':'','Href':'http://blog.dianqk.org/'},
+			{'Name':'gracelancy','Title':'','Href':'http://gracelancy.com/'},
+			{'Name':'江南的悲伤','Title':'','Href':'http://sergiochan.xyz/'},
+			{'Name':'Hilen','Title':'','Href':'https://hilen.github.io/'},
+			{'Name':'六阿哥博客','Title':'记录一个iOS程序员的成长历程','Href':'https://blog.6ag.cn/'},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {
