@@ -48,7 +48,11 @@ var iOSDevGuide = {
 			"pageC2":[
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
-			
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			]
 		}]}, {//大块
 		"pageT1":"国内外优秀博客",	
@@ -67,12 +71,42 @@ var iOSDevGuide = {
 			{'Name':'江南的悲伤','Title':'','Href':'http://sergiochan.xyz/'},
 			{'Name':'Hilen','Title':'','Href':'https://hilen.github.io/'},
 			{'Name':'六阿哥博客','Title':'记录一个iOS程序员的成长历程','Href':'https://blog.6ag.cn/'},
+			{'Name':'瓜地','Title':'iOS Dev and try everything!','Href':'http://www.desgard.com/'},
+			{'Name':'Starming星光社','Title':'','Href':'http://www.starming.com/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {
-			"pageT2":"Objective-C",
+			"pageT2":"国外博客",
 			"pageC2":[
-			{},
+			{'Name':'ORTA-THEROX','Title':'','Href':'http://orta.io/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{},
 			{}
 			]
