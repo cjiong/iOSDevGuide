@@ -94,7 +94,7 @@ var iOSDevGuide = {
 			"pageC2":[
 			{'Name':'ORTA-THEROX','Title':'','Href':'http://orta.io/'},
 			{'Name':'Noah\'s Mad Lab','Title':'','Href':'http://nghiatran.me/'},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'Matthew Cheok','Title':'Random ramblings about code and design','Href':'http://blog.matthewcheok.com/'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
