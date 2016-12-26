@@ -184,7 +184,8 @@ var iOSDevGuide = {
 			{'Name':'FreelyPhotos','Title':'','Href':'http://freelyphotos.com/'},
 			{'Name':'Trunklog','Title':'','Href':'http://trunklog.com/'},
 			{'Name':'Barn Images','Title':'A collection of free photography','Href':'http://barnimages.com/'},
-			{'Name':'Pixabay','Title':'免费的高清图片','Href':'https://pixabay.com/'}
+			{'Name':'Pixabay','Title':'免费的高清图片','Href':'https://pixabay.com/'},
+			{'Name':'摄图网','Title':'正版摄影图片免费下载','Href':'http://699pic.com/'}
 			]
 		}, {
 			"pageT2":"设计素材",
@@ -193,7 +194,6 @@ var iOSDevGuide = {
 			{'Name':'sketch.im','Title':'','Href':'http://sketch.im/'},
 			{'Name':'站长素材','Title':'','Href':'http://sc.chinaz.com/'},
 			{'Name':'千图网','Title':'专注免费设计素材网站','Href':'http://www.58pic.com/'},
-			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
