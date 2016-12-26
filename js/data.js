@@ -187,6 +187,14 @@ var iOSDevGuide = {
 			{'Name':'Pixabay','Title':'免费的高清图片','Href':'https://pixabay.com/'},
 			{}
 			]
+		}, {
+			"pageT2":"设计素材",
+			"pageC2":[
+			{'Name':'Sketch中文网','Title':'Sketch中文网是一个以中文内容介绍Sketch这款Mac设计工具的社区。','Href':'http://www.sketchcn.com/'},
+			{},
+			{},
+			{}
+			]
 		}]}, {
 		"pageT1":"常用工具",	
 		"pageC1":[{
