@@ -172,7 +172,7 @@ var iOSDevGuide = {
 			{'Name':'IconPng','Title':'','Href':'http://www.iconpng.com/'}
 			]
 		}, {
-			"pageT2":"素材下载",
+			"pageT2":"高清大图",
 			"pageC2":[
 			{'Name':'Unsplash','Title':'Free high-resolution photos.','Href':'https://unsplash.com/'},
 			{'Name':'Pixite','Title':'Free to use photos, textures and overlays.','Href':'http://source.pixite.co/'},
@@ -184,15 +184,21 @@ var iOSDevGuide = {
 			{'Name':'FreelyPhotos','Title':'','Href':'http://freelyphotos.com/'},
 			{'Name':'Trunklog','Title':'','Href':'http://trunklog.com/'},
 			{'Name':'Barn Images','Title':'A collection of free photography','Href':'http://barnimages.com/'},
-			{'Name':'Pixabay','Title':'免费的高清图片','Href':'https://pixabay.com/'},
-			{}
+			{'Name':'Pixabay','Title':'免费的高清图片','Href':'https://pixabay.com/'}
 			]
 		}, {
 			"pageT2":"设计素材",
 			"pageC2":[
 			{'Name':'Sketch中文网','Title':'Sketch中文网是一个以中文内容介绍Sketch这款Mac设计工具的社区。','Href':'http://www.sketchcn.com/'},
-			{},
-			{},
+			{'Name':'sketch.im','Title':'','Href':'http://sketch.im/'},
+			{'Name':'站长素材','Title':'','Href':'http://sc.chinaz.com/'},
+			{'Name':'千图网','Title':'专注免费设计素材网站','Href':'http://www.58pic.com/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{}
 			]
 		}]}, {
