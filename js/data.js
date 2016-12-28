@@ -194,6 +194,7 @@ var iOSDevGuide = {
 			{'Name':'sketch.im','Title':'','Href':'http://sketch.im/'},
 			{'Name':'站长素材','Title':'','Href':'http://sc.chinaz.com/'},
 			{'Name':'千图网','Title':'专注免费设计素材网站','Href':'http://www.58pic.com/'},
+			{'Name':'P大点S','Title':'P大点S-PS爱好者。这里是PS爱好者的小团队','Href':'http://www.pdadians.com/'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
