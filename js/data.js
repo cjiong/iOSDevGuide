@@ -16,7 +16,7 @@ var iOSDevGuide = {
 			{'Name':'SwiftGG','Title':'走心的 Swift 翻译组','Href':'http://swift.gg/'},
 			{'Name':'cocoachina','Title':'让移动开发更简单','Href':'http://www.cocoachina.com/'},
 			{'Name':'菜鸟教程','Title':'学的不仅是技术，更是梦想！','Href':'http://www.runoob.com/'},
-			{'Name':'','Title':'','Href':''}
+			{'Name':' Ray Wenderlich','Title':' Tutorials for iPhone/iOS Developers and Gamers','Href':'https://videos.raywenderlich.com'}
 			]
 		}, {
 			"pageT2":"开发社区",
@@ -212,7 +212,8 @@ var iOSDevGuide = {
 			{'Name':'Sublime Text','Title':'','Href':'https://www.sublimetext.com/'},
 			{'Name':'Vim','Title':'A hackable text editor for the 21st Century','Href':'https://atom.io/'},
 			{'Name':'Notepad++','Title':'','Href':'https://notepad-plus-plus.org/'},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'markdown
+			','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {
