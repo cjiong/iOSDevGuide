@@ -197,7 +197,7 @@ var iOSDevGuide = {
 			{'Name':'千图网','Title':'专注免费设计素材网站','Href':'http://www.58pic.com/'},
 			{'Name':'P大点S','Title':'P大点S-PS爱好者。这里是PS爱好者的小团队','Href':'http://www.pdadians.com/'},
 			{'Name':'UE设计平台','Title':'','Href':'http://www.uehtml.com/'},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'iOS Icon Gallery','Title':'','Href':'http://iosicongallery.com/'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
