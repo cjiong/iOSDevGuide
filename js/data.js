@@ -223,15 +223,14 @@ var iOSDevGuide = {
 			{'Name':'MWeb','Title':'专业的Markdown写作、记笔记、静态博客生成软件','Href':'http://zh.mweb.im/'},
 			{'Name':'Ulysses','Title':'The Ultimate Writing App for Mac','Href':'https://ulyssesapp.com/'},
 			{'Name':'Typora','Title':'a minimal markdown reading & writing app','Href':'http://www.typora.io/'},
-			{'Name':'Mou','Title':'Markdown editor for developers.','Href':'http://25.io/mou/'},
-			{}
+			{'Name':'Mou','Title':'Markdown editor for developers.','Href':'http://25.io/mou/'}
 			]
 		}, {
-			"pageT2":"Objective-C",
+			"pageT2":"设计",
 			"pageC2":[
-			{},
-			{},
-			{}
+			{'Name':'Sketch','Title':'Professional digital design for Mac','Href':'https://www.sketchapp.com/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			]
 		}]}, {
 		"pageT1":"数据接口/API",	
@@ -282,7 +281,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}]}, {
-		"pageT1":"Swift/Objective-C",	
+		"pageT1":"灵感",	
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
