@@ -230,7 +230,8 @@ var iOSDevGuide = {
 			"pageC2":[
 			{'Name':'Sketch','Title':'Professional digital design for Mac','Href':'https://www.sketchapp.com/'},
 			{'Name':'Principle','Title':'Animate Your Ideas, Design Better Apps','Href':'http://principleformac.com/'},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'Marvel','Title':'Simple design, prototyping and collaboration','Href':'https://marvelapp.com/'},
+			{'Name':'Flinto','Title':'https://www.flinto.com/','Href':'https://www.flinto.com/'}
 			]
 		}]}, {
 		"pageT1":"数据接口/API",	
