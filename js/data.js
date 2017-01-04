@@ -226,10 +226,10 @@ var iOSDevGuide = {
 			{'Name':'Mou','Title':'Markdown editor for developers.','Href':'http://25.io/mou/'}
 			]
 		}, {
-			"pageT2":"设计",
+			"pageT2":"原型设计",
 			"pageC2":[
 			{'Name':'Sketch','Title':'Professional digital design for Mac','Href':'https://www.sketchapp.com/'},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'Principle','Title':'Animate Your Ideas, Design Better Apps','Href':'http://principleformac.com/'},
 			{'Name':'','Title':'','Href':''},
 			]
 		}]}, {
