@@ -213,8 +213,7 @@ var iOSDevGuide = {
 			{'Name':'Sublime Text','Title':'','Href':'https://www.sublimetext.com/'},
 			{'Name':'Vim','Title':'A hackable text editor for the 21st Century','Href':'https://atom.io/'},
 			{'Name':'Notepad++','Title':'','Href':'https://notepad-plus-plus.org/'},
-			{'Name':'markdown
-			','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {
@@ -284,7 +283,7 @@ var iOSDevGuide = {
 		}]}, {
 		"pageT1":"灵感",	
 		"pageC1":[{
-			"pageT2":"Swift",
+			"pageT2":"UI",
 			"pageC2":[
 			{},
 			{},
