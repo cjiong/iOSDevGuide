@@ -232,6 +232,15 @@ var iOSDevGuide = {
 			{'Name':'Marvel','Title':'Simple design, prototyping and collaboration','Href':'https://marvelapp.com/'},
 			{'Name':'Flinto','Title':'https://www.flinto.com/','Href':'https://www.flinto.com/'}
 			]
+		}, {
+			"pageT2":"代码托管",
+			"pageC2":[
+			{'Name':'Github','Title':'','Href':'https://github.com/'},
+			{'Name':'码云','Title':'不只是编码，我们更注重社会化协作！','Href':'https://git.oschina.net/'},
+			{'Name':'Coding','Title':'开启云端开发模式，让开发更简单','Href':'https://coding.net/'},
+			{'Name':'阿里云Code','Title':'Stop coding, start amazing.','Href':'https://code.aliyun.com/users/sign_in'},
+			{'Name':'Bitbucket','Title':'Code, Manage, Collaborate','Href':'https://bitbucket.org/'}
+			]
 		}]}, {
 		"pageT1":"数据接口/API",	
 		"pageC1":[{
