@@ -294,7 +294,7 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"UI",
 			"pageC2":[
-			{},
+			{'Name':'UI中国','Title':'我们将打造中国最专业的 UI 设计交流平台','Href':'http://www.ui.cn/'},
 			{},
 			{}
 			]
