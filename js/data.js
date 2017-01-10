@@ -246,7 +246,7 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
-			{},
+			{'Name':'常用接口大全','Title':'','Href':'http://www.bejson.com/go.html?u=http://www.bejson.com/webInterface.html'},
 			{},
 			{}
 			]
