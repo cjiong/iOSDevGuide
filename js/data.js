@@ -262,7 +262,7 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
-			{},
+			{'Name':'内推网','Title':'互联网招聘内部推荐直招平台','Href':'http://www.neitui.me/'},
 			{},
 			{}
 			]
