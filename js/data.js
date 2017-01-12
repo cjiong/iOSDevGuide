@@ -284,9 +284,8 @@ var iOSDevGuide = {
 			{'Name':'前程无忧','Title':'好工作尽在前程无忧','Href':'http://www.51job.com/'},
 			{'Name':'猎聘网','Title':'','Href':'https://www.liepin.com/'},
 			{'Name':'拉勾网','Title':'最专业的互联网招聘平台','Href':'https://www.lagou.com/'},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'智通人才网','Title':'让每个人都闪光','Href':'http://www.job5156.com/'},
+			{'Name':'中华英才网','Title':'','Href':'http://www.chinahr.com/'}
 			]
 		}, {
 			"pageT2":"Objective-C",
