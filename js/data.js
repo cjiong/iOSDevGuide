@@ -212,9 +212,7 @@ var iOSDevGuide = {
 			{'Name':'AppCode','Title':'','Href':'http://www.jetbrains.com/objc/'},
 			{'Name':'Sublime Text','Title':'','Href':'https://www.sublimetext.com/'},
 			{'Name':'Vim','Title':'A hackable text editor for the 21st Century','Href':'https://atom.io/'},
-			{'Name':'Notepad++','Title':'','Href':'https://notepad-plus-plus.org/'},
-			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''}
+			{'Name':'Notepad++','Title':'','Href':'https://notepad-plus-plus.org/'}
 			]
 		}, {
 			"pageT2":"MarkDown",
@@ -251,7 +249,7 @@ var iOSDevGuide = {
 			{}
 			]
 		}, {
-			"pageT2":"Objective-C",
+			"pageT2":"",
 			"pageC2":[
 			{},
 			{},
