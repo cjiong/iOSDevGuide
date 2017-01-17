@@ -42,7 +42,7 @@ var iOSDevGuide = {
 			"pageT2":"Swift",
 			"pageC2":[
 			{'Name':'','Title':'','Href':''},
-			{'Name':'','Title':'','Href':''},
+			{'Name':'Swift Standard Library','Title':'','Href':'https://developer.apple.com/reference/swift'},
 			{'Name':'','Title':'','Href':''}
 			]
 		}, {//小块
