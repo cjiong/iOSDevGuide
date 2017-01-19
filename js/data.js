@@ -41,9 +41,10 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
+			{'Name':'Swift 3.0','Title':'','Href':'https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'Swift Standard Library','Title':'','Href':'https://developer.apple.com/reference/swift'},
-			{'Name':'','Title':'','Href':''}
+			{'Name':'Swift Resources','Title':'','Href':'https://developer.apple.com/swift/resources/'}
 			]
 		}, {//小块
 			"pageT2":"Objective-C",
