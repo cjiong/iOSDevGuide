@@ -51,7 +51,6 @@ var iOSDevGuide = {
 			"pageT2":"Objective-C",
 			"pageC2":[
 			{'Name':'Objective-C','Title':'','Href':'https://developer.apple.com/reference/objectivec'},
-			
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
