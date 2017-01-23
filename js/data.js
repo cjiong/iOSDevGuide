@@ -134,9 +134,20 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"Swift",
 			"pageC2":[
-			{},
-			{},
-			{}
+			{'Name':'Alamofire','Title':'Alamofire is an HTTP networking library written in Swift.','Href':'https://github.com/Alamofire/Alamofire'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''}
 			]
 		}, {
 			"pageT2":"Objective-C",
