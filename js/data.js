@@ -152,8 +152,15 @@ var iOSDevGuide = {
 		}, {
 			"pageT2":"Objective-C",
 			"pageC2":[
-			{},
-			{},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			{}
 			]
 		}]}, {
