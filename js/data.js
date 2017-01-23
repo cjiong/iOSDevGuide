@@ -152,7 +152,7 @@ var iOSDevGuide = {
 		}, {
 			"pageT2":"Objective-C",
 			"pageC2":[
-			{'Name':'','Title':'','Href':''},
+			{'Name':'AFNetworking','Title':'AFNetworking is a delightful networking library for iOS and Mac OS X.','Href':'https://github.com/AFNetworking/AFNetworking'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
