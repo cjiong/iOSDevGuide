@@ -261,11 +261,12 @@ var iOSDevGuide = {
 		}]}, {
 		"pageT1":"数据接口/API",	
 		"pageC1":[{
-			"pageT2":"Swift",
+			"pageT2":"接口",
 			"pageC2":[
 			{'Name':'常用接口大全','Title':'','Href':'http://www.bejson.com/go.html?u=http://www.bejson.com/webInterface.html'},
-			{},
-			{}
+			{'Name':'聚合数据','Title':'一家数据银行','Href':'https://www.juhe.cn/'},
+			{'Name':'','Title':'','Href':''},
+			{'Name':'','Title':'','Href':''},
 			]
 		}, {
 			"pageT2":"",
@@ -279,7 +280,7 @@ var iOSDevGuide = {
 		"pageC1":[{
 			"pageT2":"",
 			"pageC2":[
-			{'Name':'','Title':'','Href':''},
+			{'Name':'牛客网','Title':'','Href':'http://www.nowcoder.com/'},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''},
 			{'Name':'','Title':'','Href':''}
